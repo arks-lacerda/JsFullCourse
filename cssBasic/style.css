@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /*background-color: #333;*/
+    background-image: url(./assets/images/bfr.jpeg);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 50px;
+    color: #fff;
+    background-color: green;
+}
+
+h4 {
+    margin: 20px 10px;
+    font-size: 25px;
+    color: #fff;
+}
+
+ul {
+    margin-left: 30px;
+}
+
+li {
+    font-size: 20px;
+    color: #fff;
+    list-style: none;
+}
+
+.moon {
+    color:  orange;
+}
+
+#europa-text {
+    font-weight: bold;
+    font-size: 17Spx;
+    color: blue;
+}
+
+.big-text {
+    font-size: 40px;
+}
+
