@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li > a { /*PAI P/ FILHO*/
+    color: red;
+}
+
+h1 + h3 { /* seletor adjacente*/
+    border: 1px solid blue;
+}
+
+a[href='./recibo'] {
+    color: orange;
+}
+
+li:nth-of-type(2) {
+    color: orchid;
+}
+
