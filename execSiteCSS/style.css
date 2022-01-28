@@ -1,0 +1,54 @@
+
+/*
+​#f1c40f -> Amarelo
+#2c3e50 -> Azul
+#e74c3c -> Vermelho
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2c3e50;
+}
+
+h1 {
+    color: #fff;
+    margin: 20px 15px;
+    font-size: 2.1rem;
+}
+
+#days-of-weeks h3 {
+    color: #f1c40f;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+div#days-of-weeks ul li {
+    margin-left: 40px;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#activities {
+    margin: 20px 15px;
+}
+
+#activities h2 {
+    background-color: #f1c40f;
+    border: 2px solid;
+}
+
+div#activities ul {
+    margin: 20px 40px;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.astronomy-class {
+    color: #e74c3c;
+}
