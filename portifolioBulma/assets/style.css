@@ -1,0 +1,25 @@
+.navbar {
+    margin-bottom: 40px;
+}
+
+body {
+    position: relative;
+}
+
+body::after {
+    content: '';
+    display: block;
+    height: 50px; /* Set same as footer's height */
+  }
+
+.card {
+    margin-bottom: 20px;
+}
+
+.footer {
+    width: 100vw;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
