@@ -19,4 +19,5 @@ if(velocity <= 0){
     alert("Velocidade perigosa. Controle automático forçado.")      
 }
 
+alert("Piloto: " + namePilot + "\nVelocidade: " + velocity + "km/s")
 console.log(velocity)
